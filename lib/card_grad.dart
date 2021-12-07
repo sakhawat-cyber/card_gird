@@ -45,6 +45,11 @@ class card_Gride extends StatelessWidget {
             color: Colors.yellow,
           ),
           Container(
+            child: Column(
+              children: [
+                Text("sayed"),
+              ],
+            ),
             height: 200,
             width: 150,
             color: Colors.black,
